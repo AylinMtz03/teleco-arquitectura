@@ -75,24 +75,16 @@
             "id": "a910d7b139bea168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMS_T_U1/Unidad2/05-09-24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "529e6bb5a2f0e080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMS_T_U1/Unidad2/09-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -101,14 +93,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMS_T_U1/Unidad2/12-09-2024.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e60c4967bce91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24.sep.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b75f8d80a2c0420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -174,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMS_T_U1/Unidad2/12-09-2024.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMS_T_U1/Unidad2/12-09-2024.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMS_T_U1/Unidad2/12-09-2024.md"
+                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md"
               }
             }
           }
@@ -235,8 +251,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "472515d3e560b744",
+  "active": "9b75f8d80a2c0420",
   "lastOpenFiles": [
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_T_U1_ACT2 (1).pdf",
+    "AMS_Arquitectura de Computadoras/Unidad2/msoF6EE.tmp",
+    "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
+    "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
+    "24.sep.2024.md",
+    "AMS_Arquitectura de Computadoras/Unidad2",
+    "AMS_Telecomunicaciones/unidad_3",
     "AMS_AC_U1/Unidad1/CAPTURASS.pdf",
     "AMS_AC_U1/Nueva carpeta",
     "Pasted image 20240912073652.png",
@@ -254,11 +277,7 @@
     "AMS_AC_U1/Unidad1/CUADRO COMPARATIVO TECNOLOGIAS.pdf",
     "AMS_AC_U1/CUADRO COMPARATIVO TECNOLOGIAS.pdf",
     "DOCU DEL CPU.pdf",
-    "DOCU DEL CPU P2[1] - copia.pdf",
     "AMS_T_U1/Unidad2/05-09-24.md",
-    "AMS_T_U1/Unidad2",
-    "tareas/CUADRO COMPARATIVO TECNOLOGIAS.pdf",
-    "tareas/ARQTABLA.pdf",
     "Arquitectura de computadoras/Unidad1/dia1.md",
     "telecomunicaciones/Unidad1/semana1/DIA1.md",
     "Arquitectura de computadoras/Unidad1/19-ago.md",
