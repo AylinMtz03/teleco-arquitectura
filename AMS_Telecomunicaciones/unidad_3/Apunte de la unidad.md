@@ -1,0 +1,4 @@
+10-oct-2024
+Las fibras ópticas son guías de onda dieléctrica circulares que pueden transportar energía óptica e información. Tienen un núcleo central rodeado por un revestimiento concéntrico con un índice de refracción ligeramente inferior (en un ≈ 1%). Las fibras ópticas suelen estar hechas de sílice con dopantes modificadores del índice como el GeO2.
+Se utiliza una capa protectora de una o dos capas de material de amortiguación (como el acrilato) para reducir la diafonía entre las fibras adyacentes y la microflexión que aumenta las pérdidas que se produce cuando las fibras se presionan contra superficies rugosas.
+Las fibras se incorporan comúnmente en los cables. Los cables típicos tienen una cubierta de polietileno que encierra la fibra dentro de un miembro de resistencia, como hebras de acero o Kevlar.

@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24.sep.2024.md",
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,9 +122,55 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "257153ab11248743",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AMS_Arquitectura de Computadoras/Unidad1/DOCU DEL CPU.pdf"
+              }
+            }
+          },
+          {
+            "id": "267e94faef88a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c6f1e6fb9dbc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cbd85f145a9df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -190,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md"
+                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md"
               }
             }
           }
@@ -251,17 +297,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9b75f8d80a2c0420",
+  "active": "6cbd85f145a9df0a",
   "lastOpenFiles": [
-    "AMS_Arquitectura de Computadoras/Unidad2/AMS_T_U1_ACT2 (1).pdf",
-    "AMS_Arquitectura de Computadoras/Unidad2/msoF6EE.tmp",
-    "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
-    "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
-    "24.sep.2024.md",
-    "AMS_Arquitectura de Computadoras/Unidad2",
-    "AMS_Telecomunicaciones/unidad_3",
-    "AMS_AC_U1/Unidad1/CAPTURASS.pdf",
-    "AMS_AC_U1/Nueva carpeta",
+    "AMS_Telecomunicaciones/unidad_3/AMS_T_U2_ACT3.1.pdf",
+    "AMS_Telecomunicaciones/Unidad2/msoEC0E.tmp",
+    "AMS_Telecomunicaciones/Unidad2/msoEAB6.tmp",
+    "AMS_Telecomunicaciones/Unidad2/AMS_T_U2_ACT3.1.pdf",
+    "AMS_Telecomunicaciones/Unidad2/msoE605.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/mso74F8.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/mso73ED.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/msoED9D.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/msoECC2.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/msoF31E.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/msoF1E5.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.2.md",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+    "AMS_Telecomunicaciones/unidad_3/Apunte de la unidad.md",
+    "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
     "Pasted image 20240912073652.png",
     "Pasted image 20240912073347.png",
     "Pasted image 20240912073152.png",
@@ -269,26 +321,29 @@
     "Pasted image 20240912072748.png",
     "Pasted image 20240912072527.png",
     "Pasted image 20240912072253.png",
+    "AMS_Arquitectura de Computadoras/Unidad1/dia1.md",
+    "AMS_Telecomunicaciones/Unidad2/12-09-2024.md",
+    "AMS_Telecomunicaciones/Unidad2/09-09-2024.md",
+    "AMS_Telecomunicaciones/Unidad2/05-09-24.md",
+    "AMS_Telecomunicaciones/Unidad1/semana1/DIA3.md",
+    "AMS_Telecomunicaciones/Unidad1/semana1/DIA2.md",
+    "AMS_Telecomunicaciones/Unidad1/semana1/DIA1.md",
+    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia4.md",
+    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia3.md",
+    "AMS_Telecomunicaciones/Unidad1/Semana 2/Dia1.md",
+    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia 2.md",
+    "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
+    "README.md",
+    "actividad 2.1.md",
+    "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
+    "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
     "Pasted image 20240912071937.png",
     "AMS_T_U1/Unidad2/09-09-2024.md",
     "AMS_T_U1/Unidad2/12-09-2024.md",
-    "AMS_AC_U1/Unidad1/linea del tiemo computadoras.pdf",
-    "AMS_AC_U1/Unidad1/partes compu.pdf",
-    "AMS_AC_U1/Unidad1/CUADRO COMPARATIVO TECNOLOGIAS.pdf",
-    "AMS_AC_U1/CUADRO COMPARATIVO TECNOLOGIAS.pdf",
-    "DOCU DEL CPU.pdf",
     "AMS_T_U1/Unidad2/05-09-24.md",
     "Arquitectura de computadoras/Unidad1/dia1.md",
     "telecomunicaciones/Unidad1/semana1/DIA1.md",
     "Arquitectura de computadoras/Unidad1/19-ago.md",
-    "telecomunicaciones/Unidad1/Semana 2/dia4.md",
-    "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
-    "telecomunicaciones/Unidad1/Semana 2/dia3.md",
-    "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
-    "telecomunicaciones/Unidad1/Semana 2/dia 2.md",
-    "telecomunicaciones/Unidad1/Semana 2/Dia1.md",
-    "telecomunicaciones/Unidad1/semana1/DIA3.md",
-    "telecomunicaciones/Unidad1/semana1/DIA2.md",
-    "Bienvenido.md"
+    "telecomunicaciones/Unidad1/Semana 2/dia4.md"
   ]
 }
