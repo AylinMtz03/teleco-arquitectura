@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           },
           {
@@ -20,7 +22,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -28,7 +32,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -36,7 +42,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -44,7 +52,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -52,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -60,7 +72,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -68,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -76,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -84,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -96,7 +116,9 @@
                 "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24.Sep.2024"
             }
           },
           {
@@ -108,7 +130,9 @@
                 "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AMS_AC_U2_ACT_2.1"
             }
           },
           {
@@ -120,7 +144,9 @@
                 "file": "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "26.sep.2024"
             }
           },
           {
@@ -130,7 +156,9 @@
               "type": "pdf",
               "state": {
                 "file": "AMS_Arquitectura de Computadoras/Unidad1/DOCU DEL CPU.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "DOCU DEL CPU"
             }
           },
           {
@@ -142,7 +170,9 @@
                 "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AMS_AC_U2_ACT_2.1"
             }
           },
           {
@@ -154,7 +184,9 @@
                 "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AMS_AC_U2_ACT_2.2"
             }
           },
           {
@@ -163,14 +195,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/Apunte de la unidad.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Apunte de la unidad"
+            }
+          },
+          {
+            "id": "e450320d245a9d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.Sep.2024"
+            }
+          },
+          {
+            "id": "6422cf0bc789ed42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Telecomunicaciones/Unidad4/Antenas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Antenas"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -190,7 +252,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -205,7 +269,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -213,7 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -236,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +312,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 24.Sep.2024"
             }
           },
           {
@@ -253,10 +323,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
+                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 24.Sep.2024"
             }
           },
           {
@@ -267,7 +339,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -276,8 +350,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md"
-              }
+                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 24.Sep.2024"
             }
           }
         ]
@@ -297,21 +373,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6cbd85f145a9df0a",
+  "active": "6422cf0bc789ed42",
   "lastOpenFiles": [
+    "ANTENAS.drawio.png",
+    "AMS_Arquitectura de Computadoras/Unidad2/mso213C.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/mso1E2D.tmp",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_DOCU2.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad2/mso2091.tmp",
+    "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
+    "AMS_Telecomunicaciones/Unidad4/Antenas.md",
+    "AMS_Telecomunicaciones/Unidad4",
+    "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_PRAC_2.3.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_PRAC_2.1.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
     "AMS_Telecomunicaciones/unidad_3/AMS_T_U3_ACTIVIDAD3.1.pdf",
     "AMS_Telecomunicaciones/unidad_3/AMS_T_U3_ACT3.1.pdf",
     "AMS_Telecomunicaciones/unidad_3/AMS_T_U2_ACT3.1.pdf",
-    "AMS_Telecomunicaciones/Unidad2/msoEC0E.tmp",
-    "AMS_Telecomunicaciones/Unidad2/msoEAB6.tmp",
-    "AMS_Telecomunicaciones/Unidad2/AMS_T_U2_ACT3.1.pdf",
-    "AMS_Telecomunicaciones/Unidad2/msoE605.tmp",
-    "AMS_Arquitectura de Computadoras/Unidad2/mso74F8.tmp",
-    "AMS_Arquitectura de Computadoras/Unidad2/mso73ED.tmp",
-    "AMS_Arquitectura de Computadoras/Unidad2/msoED9D.tmp",
-    "AMS_Arquitectura de Computadoras/Unidad2/msoECC2.tmp",
     "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.2.md",
-    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
     "AMS_Telecomunicaciones/unidad_3/Apunte de la unidad.md",
     "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
     "Pasted image 20240912073652.png",
@@ -335,15 +414,12 @@
     "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
     "README.md",
     "actividad 2.1.md",
-    "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
-    "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
     "Pasted image 20240912071937.png",
     "AMS_T_U1/Unidad2/09-09-2024.md",
     "AMS_T_U1/Unidad2/12-09-2024.md",
     "AMS_T_U1/Unidad2/05-09-24.md",
     "Arquitectura de computadoras/Unidad1/dia1.md",
     "telecomunicaciones/Unidad1/semana1/DIA1.md",
-    "Arquitectura de computadoras/Unidad1/19-ago.md",
-    "telecomunicaciones/Unidad1/Semana 2/dia4.md"
+    "Arquitectura de computadoras/Unidad1/19-ago.md"
   ]
 }
