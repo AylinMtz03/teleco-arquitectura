@@ -204,35 +204,19 @@
             }
           },
           {
-            "id": "e450320d245a9d72",
+            "id": "5ce517e4a0046959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
-                "mode": "source",
-                "source": false
+                "file": "ANTENAS.drawio.png"
               },
-              "icon": "lucide-file",
-              "title": "24.Sep.2024"
-            }
-          },
-          {
-            "id": "6422cf0bc789ed42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMS_Telecomunicaciones/Unidad4/Antenas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antenas"
+              "icon": "lucide-image",
+              "title": "ANTENAS.drawio"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -373,53 +357,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6422cf0bc789ed42",
+  "active": "5ce517e4a0046959",
   "lastOpenFiles": [
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_Conexionesmunicipios.pdf",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_COTIZACION.pdf",
+    "AMS_Telecomunicaciones/Unidad4/msoAFD6.tmp",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_RED_DEL_TEC_A_MI_CASA.md",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_Antenas.md",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_PRACTICA.kmz",
+    "AMS_Telecomunicaciones/Unidad4/RED DEL TEC A MI CASA.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/Unidades de almacenamiento.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/Diferencia entre GPU y CPU.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/MHZ, KHZ y GHZ.md",
+    "AMS_Arquitectura de Computadoras/Unidad3",
+    "AMS_Telecomunicaciones/Unidad3/Apunte de la unidad.md",
+    "AMS_Telecomunicaciones/Unidad3/AMS_T_U3_ACTIVIDAD3.1.pdf",
+    "AMS_Telecomunicaciones/Unidad3/26.sep.2024.md",
+    "AMS_Telecomunicaciones/Unidad3/24.Sep.2024.md",
+    "AMS_Telecomunicaciones/Unidad3",
+    "AMS_Arquitectura de Computadoras/Unidad1/AMS_U1_TRABAJO1.1.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad1/AMS_U1_.pdf",
+    "AMS_Arquitectura de Computadoras/unidad3/Unidades de almacenamiento.md",
+    "AMS_Arquitectura de Computadoras/unidad3/MHZ, KHZ y GHZ.md",
+    "Captura de pantalla (213).png",
+    "Captura de pantalla (212).png",
+    "Captura de pantalla (211).png",
+    "Captura de pantalla (210).png",
+    "Captura de pantalla (207).png",
+    "Captura de pantalla (206).png",
+    "AMS_Arquitectura de Computadoras/unidad3/Diferencia entre GPU y CPU.md",
     "ANTENAS.drawio.png",
+    "AMS_Telecomunicaciones/Unidad4/Antenas.md",
+    "Pasted image 20241028082112.png",
+    "Pasted image 20241028082013.png",
+    "Pasted image 20241028081931.png",
     "AMS_Arquitectura de Computadoras/Unidad2/mso213C.tmp",
     "AMS_Arquitectura de Computadoras/Unidad2/mso1E2D.tmp",
-    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_DOCU2.pdf",
-    "AMS_Arquitectura de Computadoras/Unidad2/mso2091.tmp",
     "AMS_Telecomunicaciones/unidad_3/24.Sep.2024.md",
-    "AMS_Telecomunicaciones/Unidad4/Antenas.md",
-    "AMS_Telecomunicaciones/Unidad4",
     "AMS_Telecomunicaciones/unidad_3/26.sep.2024.md",
-    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_PRAC_2.3.pdf",
-    "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_PRAC_2.1.pdf",
     "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.1.md",
-    "AMS_Telecomunicaciones/unidad_3/AMS_T_U3_ACTIVIDAD3.1.pdf",
-    "AMS_Telecomunicaciones/unidad_3/AMS_T_U3_ACT3.1.pdf",
-    "AMS_Telecomunicaciones/unidad_3/AMS_T_U2_ACT3.1.pdf",
     "AMS_Arquitectura de Computadoras/Unidad2/AMS_AC_U2_ACT_2.2.md",
     "AMS_Telecomunicaciones/unidad_3/Apunte de la unidad.md",
-    "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
-    "Pasted image 20240912073652.png",
-    "Pasted image 20240912073347.png",
-    "Pasted image 20240912073152.png",
-    "Pasted image 20240912072859.png",
-    "Pasted image 20240912072748.png",
-    "Pasted image 20240912072527.png",
-    "Pasted image 20240912072253.png",
     "AMS_Arquitectura de Computadoras/Unidad1/dia1.md",
     "AMS_Telecomunicaciones/Unidad2/12-09-2024.md",
     "AMS_Telecomunicaciones/Unidad2/09-09-2024.md",
     "AMS_Telecomunicaciones/Unidad2/05-09-24.md",
     "AMS_Telecomunicaciones/Unidad1/semana1/DIA3.md",
     "AMS_Telecomunicaciones/Unidad1/semana1/DIA2.md",
-    "AMS_Telecomunicaciones/Unidad1/semana1/DIA1.md",
-    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia4.md",
-    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia3.md",
-    "AMS_Telecomunicaciones/Unidad1/Semana 2/Dia1.md",
-    "AMS_Telecomunicaciones/Unidad1/Semana 2/dia 2.md",
-    "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
-    "README.md",
-    "actividad 2.1.md",
-    "Pasted image 20240912071937.png",
-    "AMS_T_U1/Unidad2/09-09-2024.md",
-    "AMS_T_U1/Unidad2/12-09-2024.md",
-    "AMS_T_U1/Unidad2/05-09-24.md",
-    "Arquitectura de computadoras/Unidad1/dia1.md",
-    "telecomunicaciones/Unidad1/semana1/DIA1.md",
-    "Arquitectura de computadoras/Unidad1/19-ago.md"
+    "AMS_Telecomunicaciones/Unidad1/semana1/DIA1.md"
   ]
 }
