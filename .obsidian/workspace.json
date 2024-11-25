@@ -282,9 +282,23 @@
               "icon": "lucide-image",
               "title": "ANTENAS.drawio"
             }
+          },
+          {
+            "id": "c3915b432843b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_Diferencia entre GPU y CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AMS_U3_AC_Diferencia entre GPU y CPU"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -425,18 +439,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc01c5453a8278db",
+  "active": "c3915b432843b8d6",
   "lastOpenFiles": [
+    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_MHZ, KHZ y GHZ.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_Diferencia entre GPU y CPU.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/AMS_AC_U3_Unidades de almacenamiento.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_APUNTE-7-Noviembre-2024.md",
+    "AMS_Arquitectura de Computadoras/Unidad3/AMS_AC_U3_TABLA COMPARATIVA ENTRE AMD64 VS ARM64.md",
+    "AMS_Arquitectura de Computadoras/Unidad1/AMS_U1_AC_PRACTICA1.1.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad1/AMS_U1_AC_REPORTESERVIDOR.pdf",
+    "AMS_Arquitectura de Computadoras/Unidad1/AMS_UNIDAD1_AC_ACT1.1.pdf",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_RED_DEL_TEC_A_MI_CASA.md",
+    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_DIAGRAMADECONEXIONES.pdf",
     "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_Antenas.md",
     "AMS_Telecomunicaciones/Unidad4/AMS_T_U4_ACTIVIDAD4.md",
     "AMS_Telecomunicaciones/Unidad4/AMS_T_U4_APUNTE 12-11-2024.md",
-    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_DIAGRAMADECONEXIONES.pdf",
-    "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_RED_DEL_TEC_A_MI_CASA.md",
-    "AMS_Arquitectura de Computadoras/Unidad3/AMS_AC_U3_Unidades de almacenamiento.md",
-    "AMS_Arquitectura de Computadoras/Unidad3/AMS_AC_U3_TABLA COMPARATIVA ENTRE AMD64 VS ARM64.md",
-    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_APUNTE-7-Noviembre-2024.md",
-    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_MHZ, KHZ y GHZ.md",
-    "AMS_Arquitectura de Computadoras/Unidad3/AMS_U3_AC_Diferencia entre GPU y CPU.md",
     "Pasted image 20241111071656.png",
     "Pasted image 20241107083732.png",
     "Pasted image 20241107082729.png",
@@ -446,9 +463,6 @@
     "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_PRACTICA .kmz",
     "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_PRACTICA (1).kmz",
     "AMS_Telecomunicaciones/Unidad4/AMS_U4_T_COTIZACION.xlsx",
-    "AMS_Telecomunicaciones/Unidad4/D7CC4070",
-    "AMS_Telecomunicaciones/Unidad4/~$AMS_U4_T_COTIZACION.xlsx",
-    "AMS_Arquitectura de Computadoras/Unidad1/AMS_U1_AC_ACT1.2.pdf",
     "AMS_Telecomunicaciones/Unidad1/Semana 2/26-agosto-2024.md",
     "AMS_Telecomunicaciones/Unidad1/Semana 2/30-agosto-2024.md",
     "AMS_Telecomunicaciones/Unidad1/Semana 2/29-agosto-2024.md",
